@@ -49,6 +49,11 @@
     background-size: cover;
 }
 
+.progress {
+    background-image: url(progress.png);
+    background-size: cover;
+}
+
 .stopCrying {
     width: 65px;
     height: 65px;
