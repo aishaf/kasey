@@ -196,9 +196,8 @@ a:visited {
 } */
 
 .diaper {
-    width: 75px;
-    height: 75px;
-    position: absolute;
+    width: 100%
+    height: 100%
     margin-top: -75px;
     margin-left: 95px;
     /*background-color: #82CBA9 ;*/
