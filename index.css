@@ -40,6 +40,7 @@ body {
 
 .baby {
     height: 300px;
+    width: 50px;
     margin-top: auto;
     margin-left: auto;
     background-image: url(baby.png);
