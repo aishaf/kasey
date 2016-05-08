@@ -39,6 +39,7 @@ body {
 }
 
 .baby {
+    margin-top: 0px;
     background-image: url(baby.png);
     background-size: cover;
 }
@@ -179,15 +180,6 @@ a:visited {
     margin-top: 40px;
 }
 
-.bottle {
-    width: 75px;
-    height: 75px;
-    position: relative;
-    margin-top: 500px;
-    margin-left: 10px;
-    background-color: #5A61AB ;
-}
-
 .bottleIcon {
     width: 75px;
     height: 75px;
@@ -196,6 +188,15 @@ a:visited {
     margin-left: 0px;
     background-image: url(bottle.png);
     background-size: cover;
+}
+
+.bottle {
+    width: 75px;
+    height: 75px;
+    position: relative;
+    margin-top: 500px;
+    margin-left: 10px;
+    background-color: #5A61AB ;
 }
 
 .diaper {
