@@ -34,6 +34,11 @@
     background-size: cover;
 }
 
+.welcome {
+    background-image: url(welcome.pdf);
+    background-size: cover;
+}
+
 body {
     background-color: #FFF685; 
 }
