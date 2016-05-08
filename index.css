@@ -183,11 +183,11 @@ a:visited {
     background-color: #5A61AB ;
 }
 .bottleIcon {
-    width: 65px;
-    height: 65px;
+    width: 75px;
+    height: 75px;
     position: relative;
-    margin-top: 0px
-    margin-left: 0px;
+    margin-top: -75px
+    margin-left: -75px;
     background-image: url(bottle.png);
     background-size: contain;
     background-repeat: no-repeat;
