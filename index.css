@@ -38,7 +38,7 @@ body {
     background-color: #FFF685; 
 }
 
-baby {
+.baby {
     background-image: url(baby.png);
     background-size: cover;
 }
