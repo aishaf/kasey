@@ -39,6 +39,11 @@
     background-size: cover;
 }
 
+.crying {
+    background-image: url(crying.png);
+    background-size: cover;
+}
+
 body {
     background-color: #FFF685; 
 }
