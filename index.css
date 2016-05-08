@@ -148,14 +148,14 @@ a:visited {
     position: relative;
     line-height: 30px;
     margin-left: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .bottle {
     width: 70px;
     height: 70px;
     position: relative;
-    margin-top: 400px;
+    margin-top: 450px;
     margin-left: 10px;
     background-color: #5A61AB ;
 }
@@ -164,8 +164,8 @@ a:visited {
     width: 70px;
     height: 70px;
     position: absolute;
-    margin-top: -60px;
-    margin-left: 80px;
+    margin-top: -70px;
+    margin-left: 90px;
     background-color: #82CBA9 ;
 }
     
