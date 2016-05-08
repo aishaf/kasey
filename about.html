@@ -16,4 +16,12 @@
             <h3>H</h3>
             </a>
         </div>
+        
+        <script src="https://hammerjs.github.io/dist/hammer.js">
+            Hammer('#body').on("swipeleft swiperight", function() {
+            if (event.direction === 'left') {
+                alert('you swiped left!');
+            }
+            });
+        </script>
     </body>
