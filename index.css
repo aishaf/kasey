@@ -45,6 +45,7 @@ body {
     margin-left: auto;
     background-image: url(baby.png);
     background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .heading {
