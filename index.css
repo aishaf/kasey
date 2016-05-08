@@ -91,6 +91,9 @@ h2 {
     color: #FFFFFF;
     text-align: center;
     font-size: 150%;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:20px;
 }
 
 h3 {
