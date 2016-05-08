@@ -3,6 +3,15 @@
     <head>
     <link rel="stylesheet" type="text/css" href="index.css">
     <title>about the app</title>
+    
+     <script language="javascript">
+    function playIt()
+    {
+        document.getElementById('button-play-v-once').innerHTML="<embed src='Baby Crying Sound Effect.mp3' autostart=true loop=false volume=100 hidden=true>";
+    return true;
+    }
+</script>
+
     </head>
     
     
@@ -15,27 +24,13 @@
       <button id="button-play-v-once" class="button-demo">Play</button>
       
         </div>
-    <script>
-        $(document).ready(function() {
-        var audioElement = document.createElement('audio');
-        audioElement.setAttribute('src', 'Baby Crying Sound Effect.mp3');
-        audioElement.setAttribute('autoplay', 'autoplay');
-        //audioElement.load()
+   
+<body>
+    <form action="" method="post">
+        <button type="button" onclick="playIt()">play</button>
+        <div id="embed"></div>
+    </form>
+</body>
 
-        $.get();
-
-        audioElement.addEventListener("load", function() {
-            audioElement.Play();
-        }, true);
-
-        $('.Play').click(function() {
-            audioElement.Play();
-        });
-
-        $('.Stop').click(function() {
-            audioElement.Stop();
-        });
-        });
-    </script>
        
-    </body>
+ 
