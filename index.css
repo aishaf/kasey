@@ -22,7 +22,7 @@
 
 .tut1 {
     background-image: url(slide1.png);
-    width: 100%;
+    background-size: contain;
 }
 
 body {
