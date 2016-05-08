@@ -177,5 +177,13 @@ a:visited {
     background-color: #8B7B8B ;
 }
 
+.rock {
+    width: 75px;
+    height: 75px;
+    margin-top: -75px;
+    margin-left: 255px;
+    background-color: #82CBA9 ;
+}
+
 
     
