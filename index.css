@@ -29,6 +29,10 @@
     background-image: url(meetDev.png);
     background-size: cover;
 }
+.aboutpic {
+    background-image: url(meetDev.png);
+    background-size: cover;
+}
 
 body {
     background-color: #FFF685; 
