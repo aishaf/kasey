@@ -20,6 +20,10 @@
     -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
 }
 
+.tut1 {
+    background-image: url(1st slide.pdf);
+}
+
 body {
     background-color: #FFF685;
 }
