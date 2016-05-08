@@ -236,29 +236,26 @@ a:visited {
 }
 
 .ans1 {
-    margin-top: -35px;
-    line-height: 5px;
+    margin-top: -45px;
     border-style: solid;
     border-color: #5A61AB;
+    padding: 0px;
 }
 
 .ans2 {
     margin-top: 15px;
-    line-height: 5px;
     border-style: solid;
     border-color: #5A61AB;
 }
 
 .ans3 {
     margin-top: 15px;
-    line-height: 5px;
     border-style: solid;
     border-color: #5A61AB;
 }
 
 .ans4 {
     margin-top: 15px;
-    line-height: 5px;
     border-style: solid;
     border-color: #5A61AB;
 }
