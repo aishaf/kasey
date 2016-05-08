@@ -25,6 +25,10 @@ body {
     background-color: #FFF685;
 }
 
+.tut1 {
+    background-image: url("1st slide.pdf");
+}
+
 .heading {
     background-color: #82CBA9;
     padding: 50px;
