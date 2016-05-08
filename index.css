@@ -174,21 +174,11 @@ a:visited {
     margin-top: 40px;
 }
 
-.bottleIcon {
-    width: 75px;
-    height: 75px;
-    position: relative;
-    margin-top: -100px;
-    margin-left: 10px;
-    background-image: url(bottle.png);
-    background-size: contain;
-}
-
 .bottle {
     width: 75px;
     height: 75px;
     position: relative;
-    margin-top: -75px;
+    margin-top: 200px;
     margin-left: 10px;
     background-color: #5A61AB ;
 }
