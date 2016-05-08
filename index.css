@@ -203,7 +203,29 @@ a:visited {
     background-color: #F2C916 ;
 }
 
+.question {
+    margin-top: 50px;
+}
+
 .ans1 {
+    margin-top: 30px;
+    border-style: solid;
+    border-color: #FFFFFF;
+}
+
+.ans2 {
+    margin-top: 30px;
+    border-style: solid;
+    border-color: #FFFFFF;
+}
+
+.ans3 {
+    margin-top: 30px;
+    border-style: solid;
+    border-color: #FFFFFF;
+}
+
+.ans4 {
     margin-top: 30px;
     border-style: solid;
     border-color: #FFFFFF;
