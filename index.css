@@ -192,10 +192,13 @@ a:visited {
 }
 
 .next {
+    width: 25px;
+    height: 25px;
+    background-color: #FFF685;
     line-height: 30px;
     position: fixed;
-    bottom: 0;
-    right: 0;
+    bottom: 50;
+    right: 30;
 }
 
 .bottle {
