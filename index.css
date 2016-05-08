@@ -32,7 +32,7 @@ body {
 .tutorial {
     height: 80px;
     background-color: #F2C916;
-    line-height: 15px;
+    line-height: 30px;
     width: 80%;
     position: relative;
     margin-left: auto;
@@ -47,7 +47,7 @@ body {
 .about {
     height: 80px;
     background-color: #82CBA9;
-    line-height: 23px;
+    line-height: 30px;
     width: 80%;
     position: relative;
     margin-left: auto;
@@ -62,7 +62,7 @@ body {
 .meet {
     height: 80px;
     background-color: #5A61AB;
-    line-height: 23px;
+    line-height: 20px;
     width: 80%;
     position: relative;
     margin-left: auto;
