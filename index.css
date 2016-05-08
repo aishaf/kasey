@@ -119,6 +119,15 @@ h3 {
     top: -30px;
 }
 
+h4 {
+    font-family: verdana;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 150%;
+    padding-left:20px;
+    padding-right:20px;
+}
+
 .header {
     font-family: verdana;
     color: #FFFFFF;
