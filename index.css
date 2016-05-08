@@ -29,6 +29,20 @@ body {
     padding: 50px;
 }
 
+.start {
+    height: 80px;
+    background-color: #F2C916;
+    line-height: 34px;
+    width: 80%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: white;
+}
+
 .tutorial {
     height: 80px;
     background-color: #F2C916;
@@ -41,7 +55,6 @@ body {
     border-style: solid;
     border-width: 7px;
     border-color: white;
-    
 }
 
 .about {
