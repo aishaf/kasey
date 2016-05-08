@@ -66,6 +66,15 @@
     right: 7%;
 }
 
+.checkmark {
+    width: 75px;
+    height: 75px;
+    position: fixed;
+    top: 50%;
+    right: 50%;
+    background-image: url(checkmark.png);   
+}
+
 body {
     background-color: #FFF685; 
 }
