@@ -185,7 +185,6 @@ a:visited {
 .bottleIcon {
     width: 75px;
     height: 75px;
-    position: relative;
     margin-top: -75px
     margin-left: -75px;
     background-image: url(bottle.png);
