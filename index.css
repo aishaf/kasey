@@ -32,7 +32,7 @@ body {
 .tutorial {
     height: 80px;
     background-color: #F2C916;
-    line-height: 32px;
+    line-height: 34px;
     width: 80%;
     position: relative;
     margin-left: auto;
@@ -47,7 +47,7 @@ body {
 .about {
     height: 80px;
     background-color: #82CBA9;
-    line-height: 32px;
+    line-height: 34px;
     width: 80%;
     position: relative;
     margin-left: auto;
