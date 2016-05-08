@@ -18,7 +18,7 @@
         </div>
         
         <script src="https://hammerjs.github.io/dist/hammer.js">
-            Hammer('body').on("swipeleft swiperight", function() {
+            Hammer('#header').on("swipeleft swiperight", function() {
             if (event.direction === 'left') {
                 window.location.href = "tut2.html";
             }
