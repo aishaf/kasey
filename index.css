@@ -30,7 +30,7 @@
     background-size: cover;
 }
 .aboutpic {
-    background-image: url(about2.png);
+    background-image: url(about.png);
     background-size: cover;
 }
 
@@ -169,6 +169,14 @@ h6 {
     padding-left:20px;
     padding-right:20px;
     position: relative;
+}
+
+h7 {
+    font-family: verdana;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 400%;
+    top: 30px
 }
 
 .header {
