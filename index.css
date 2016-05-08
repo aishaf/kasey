@@ -165,9 +165,6 @@ a:visited {
 }
 
 .home {
-    width: -5px;
-    height: -5px;
-    position: relative;
     line-height: 30px;
     margin-left: 20px;
     margin-top: 40px;
