@@ -25,6 +25,11 @@
     background-size: contain;
 }
 
+.dev {
+    background-image: url(meetDev.png);
+    background-size: contain;
+}
+
 body {
     background-color: #FFF685; 
 }
