@@ -194,6 +194,7 @@ a:visited {
     line-height: 30px;
     margin-left: 20px;
     margin-top: 40px;
+    font-size: 100%;
 }
 
 .next {
@@ -204,6 +205,7 @@ a:visited {
     position: fixed;
     top: 75%;
     right: 5%;
+    font-size: 100%;
 }
 
 .bottle {
