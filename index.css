@@ -21,7 +21,7 @@
 }
 
 .logo {
-    top: 10%;
+    top: 20%;
 }
 
 .tut1 {
@@ -100,7 +100,7 @@ body {
 .results {
     height: 65px;
     background-color: #82CBA9;
-    line-height: 28px;
+    line-height: 30px;
     width: 80%;
     position: relative;
     margin-left: auto;
