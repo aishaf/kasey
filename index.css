@@ -127,7 +127,7 @@ h5 {
     font-family: verdana;
     color: #5A61AB;
     text-align: center;
-    font-size: 200%;
+    font-size: 150%;
     padding-left:20px;
     padding-bottom:50px;
 }
@@ -237,28 +237,28 @@ a:visited {
 
 .ans1 {
     margin-top: -35px;
-    line-height: 0px;
+    line-height: 5px;
     border-style: solid;
     border-color: #5A61AB;
 }
 
 .ans2 {
     margin-top: 15px;
-    line-height: 0px;
+    line-height: 5px;
     border-style: solid;
     border-color: #5A61AB;
 }
 
 .ans3 {
     margin-top: 15px;
-    line-height: 0px;
+    line-height: 5px;
     border-style: solid;
     border-color: #5A61AB;
 }
 
 .ans4 {
     margin-top: 15px;
-    line-height: 0px;
+    line-height: 5px;
     border-style: solid;
     border-color: #5A61AB;
 }
