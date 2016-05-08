@@ -3,15 +3,6 @@
     <head>
     <link rel="stylesheet" type="text/css" href="index.css">
     <title>tutorial</title>
-    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-    <script>
-    $(document).on("pagecreate","#pageone",function(){
-    $("h1").on("swipe",function(){
-    $(this).hide();
-    });                       
-    });
-</script>
     </head>
     
     <body>
@@ -23,14 +14,6 @@
         <div class = "home">
             <a href="index.html">H</a>
         </div>
-        
-        <script src="https://hammerjs.github.io/dist/hammer.js">
-            Hammer('#body').on("swipeleft swiperight", function() {
-            if (event.direction === 'left') {
-                alert('you swiped left!');
-            }
-            });
-        </script>
         
         
     </body>
