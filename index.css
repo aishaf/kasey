@@ -39,11 +39,11 @@ body {
 }
 
 .baby {
-    height: 100px;
+    height: 300px;
     margin-top: auto;
     margin-left: auto;
     background-image: url(baby.png);
-    background-size: cover;
+    background-size: contain;
 }
 
 .heading {
