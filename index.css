@@ -85,7 +85,7 @@ body {
     border-color: white;
 }
 
-.about {
+.results {
     height: 65px;
     background-color: #82CBA9;
     line-height: 25px;
@@ -99,9 +99,23 @@ body {
     border-color: white;
 }
 
-.meet {
+.about {
     height: 65px;
     background-color: #5A61AB;
+    line-height: 25px;
+    width: 80%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: white;
+}
+
+.meet {
+    height: 65px;
+    background-color: #2A3149;
     line-height: 20px;
     width: 80%;
     position: relative;
