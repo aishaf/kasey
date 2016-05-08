@@ -86,7 +86,8 @@ body {
 
 .start {
     height: 65px;
-    background-color: #F2C916;
+    /*background-color: #F2C916;*/
+    background-color: #FFFFFF;
     line-height: 25px;
     width: 80%;
     position: relative;
