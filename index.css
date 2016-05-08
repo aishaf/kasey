@@ -148,12 +148,12 @@ a:visited {
     position: relative;
     line-height: 30px;
     margin-left: 20px;
-    margin-top: 0px;
+    margin-top: 20px;
 }
 
 .bottle {
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     position: relative;
     margin-top: 400px;
     margin-left: 10px;
@@ -161,8 +161,8 @@ a:visited {
 }
 
 .diaper {
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     position: absolute;
     margin-top: -60px;
     margin-left: 80px;
