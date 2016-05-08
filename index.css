@@ -232,14 +232,13 @@ a:visited {
 }
 
 .question {
-    margin-top: 60px;
+    margin-top: 30px;
 }
 
 .ans1 {
     margin-top: -45px;
     border-style: solid;
     border-color: #5A61AB;
-    height: 40px; 
 }
 
 .ans2 {
