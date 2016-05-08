@@ -37,16 +37,6 @@
 body {
     background-color: #FFF685; 
 }
-.baby {
-    width: 100%;
-    margin-top: auto;
-    margin-left: auto;
-    background-image: url(baby.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-
 
 .heading {
     background-color: #82CBA9;
@@ -226,6 +216,15 @@ a:visited {
     margin-top: -75px;
     margin-left: 265px;
     background-color: #F2C916 ;
+}
+
+.baby {
+    width: 100px;
+    margin-top: -200px;
+    margin-left: -130px;
+    background-image: url(baby.png);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .question {
