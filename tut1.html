@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <title>tutorial</title>
+    </head>
+    
+    <body>
+        <div class = "header">
+            <h1>
+                tutorial 1
+            </h1>
+        </div>
+        <div class = "home">
+            <a href="index.html">H</a>
+        </div>
+        
+        <script src="https://hammerjs.github.io/dist/hammer.js">
+            Hammer('#body').on("swipeleft swiperight", function() {
+            if (event.direction === 'left') {
+                alert('you swiped left!');
+            }
+            });
+        </script>
+        
+        
+    </body>

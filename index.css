@@ -1,0 +1,137 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    background-size: 750px 1334px;
+    background-color: #FFF685;
+}
+
+.heading {
+    background-color: #82CBA9;
+    padding: 50px;
+}
+
+.tutorial {
+    height: 60px;
+    background-color: #F2C916;
+    line-height: 23px;
+    width: 80%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: white;
+    
+}
+
+.about {
+    height: 60px;
+    background-color: #82CBA9;
+    line-height: 23px;
+    width: 80%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: white;
+    
+}
+
+.meet {
+    height: 60px;
+    background-color: #5A61AB;
+    line-height: 23px;
+    width: 80%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: white;
+    
+}
+
+h1 {
+    font-family: verdana;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 400%;
+}
+
+h2 {
+    font-family: verdana;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 150%;
+}
+
+h3 {
+    font-family: verdana;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 200%;
+    position: relative;
+    top: -30px;
+}
+
+.header {
+    font-family: verdana;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 50%;
+    width: 100%;
+    left: 0;
+    margin-top: 20px;
+    
+}
+
+a:link {
+    font-family: verdana;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 100%;
+    text-decoration: none;
+}
+
+a:visited {
+    font-family: verdana;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 100%;
+    text-decoration: none;
+}
+
+.home {
+    width: 30px;
+    height: 30px;
+    background-color: #FFFFFF;
+    position: absolute;
+    line-height: 30px;
+    margin-left: 20px;
+    margin-top: -56px;
+}
+    
