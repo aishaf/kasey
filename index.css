@@ -210,10 +210,10 @@ a:visited {
 
 .baby {
     margin-top: -75px;
-    margin-left: -100px;
+    margin-left: -200px;
     background-image: url(baby.png);
     background-size: contain;
-    background-repeat: no-repeat;
+
 }
 
 .question {
