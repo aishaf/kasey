@@ -39,7 +39,8 @@ body {
 }
 .baby {
     width: 100%;
-    margin-left: -120px;
+    margin-top: auto;
+    margin-left: auto;
     background-image: url(baby.png);
     background-size: contain;
     background-repeat: no-repeat;
