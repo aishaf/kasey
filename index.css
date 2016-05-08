@@ -49,6 +49,14 @@
     background-size: cover;
 }
 
+.stopCrying {
+    width: 100px;
+    height: 100px;
+    top: 80%;
+    right: 2%;
+    background-color: red;
+}
+
 body {
     background-color: #FFF685; 
 }
