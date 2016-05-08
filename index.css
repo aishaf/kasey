@@ -125,7 +125,7 @@ h4 {
 
 h5 {
     font-family: verdana;
-    color: #FFFFFF;
+    color: #5A61AB;
     text-align: center;
     font-size: 200%;
     padding-left:20px;
@@ -133,9 +133,9 @@ h5 {
 }
 h6 {
     font-family: verdana;
-    color: #FFFFFF;
+    color: #5A61AB;
     text-align: center;
-    font-size: 80%;
+    font-size: 120%;
     padding-left:20px;
     padding-right:20px;
     position: relative;
@@ -238,25 +238,25 @@ a:visited {
 .ans1 {
     margin-top: -30px;
     border-style: solid;
-    border-color: #FFFFFF;
+    border-color: #5A61AB;
 }
 
 .ans2 {
     margin-top: 30px;
     border-style: solid;
-    border-color: #FFFFFF;
+    border-color: #5A61AB;
 }
 
 .ans3 {
     margin-top: 30px;
     border-style: solid;
-    border-color: #FFFFFF;
+    border-color: #5A61AB;
 }
 
 .ans4 {
     margin-top: 30px;
     border-style: solid;
-    border-color: #FFFFFF;
+    border-color: #5A61AB;
 }
 
 
