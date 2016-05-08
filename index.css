@@ -38,6 +38,11 @@ body {
     background-color: #FFF685; 
 }
 
+baby {
+    background-image: url(baby.png);
+    background-size: cover;
+}
+
 .heading {
     background-color: #82CBA9;
     padding: 50px;
