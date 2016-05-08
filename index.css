@@ -27,7 +27,7 @@
 
 .dev {
     background-image: url(meetDev.png);
-    background-size: contain;
+    background-size: cover;
 }
 
 body {
