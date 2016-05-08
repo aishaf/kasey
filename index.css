@@ -52,8 +52,9 @@
 .stopCrying {
     width: 50px;
     height: 50px;
-    bottom: 80%;
-    left: 5%;
+    position: fixed;
+    top: 75%;
+    right: 5%;
     background-color: red;
 }
 
