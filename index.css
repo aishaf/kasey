@@ -194,6 +194,8 @@ a:visited {
     position: relative;
     margin-top: 0px;
     margin-left: 0px;
+    background-image: url(bottle.png);
+    background-size: cover;
 }
 
 .diaper {
