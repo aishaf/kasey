@@ -201,7 +201,10 @@ a:visited {
     position: absolute;
     margin-top: -75px;
     margin-left: 95px;
-    background-color: #82CBA9 ;
+    /*background-color: #82CBA9 ;*/
+    background-image: url(diaper.png);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .burp {
