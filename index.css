@@ -191,6 +191,13 @@ a:visited {
     margin-top: 40px;
 }
 
+.next {
+    line-height: 30px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
 .bottle {
     width: 75px;
     height: 75px;
