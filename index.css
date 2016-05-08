@@ -185,7 +185,7 @@ a:visited {
     background-size: contain;
     background-repeat: no-repeat;
 }
-.bottleIcon {
+/* .bottleIcon {
     width: 75px;
     height: 75px;
     margin-top: -75px
@@ -193,7 +193,7 @@ a:visited {
     background-image: url(bottle.png);
     background-size: contain;
     background-repeat: no-repeat;
-}
+} */
 
 .diaper {
     width: 75px;
