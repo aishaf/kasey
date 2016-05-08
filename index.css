@@ -209,8 +209,10 @@ a:visited {
 }
 
 .baby {
-    margin-top: auto
-    margin-left: auto
+    width: 75px;
+    height: 75px;
+    margin-top: -75px;
+    margin-left:auto;
     background-image: url(baby.png);
 
 }
