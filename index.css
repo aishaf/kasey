@@ -42,7 +42,7 @@ body {
     height: 300px;
     width: 300px;
     margin-top: auto;
-    margin-right: 0px;
+    margin-left: -120px;
     background-image: url(baby.png);
     background-size: contain;
     background-repeat: no-repeat;
