@@ -5,32 +5,7 @@
     <title>about the app</title>
     </head>
     
-    <style>
-        body
-      {
-          max-width: 500px;
-          margin: 2em auto;
-          font-size: 20px;
-      }
-      h1
-      {
-          text-align: center;
-      }
-      .hidden
-      {
-          display: none;
-      }
     
-    .buttons-wrapper
-      {
-          text-align: center;
-      }
-      .button-demo
-      {
-          padding: 0.5em;
-          margin: 1em auto;
-      }
-    </style>
     <body>
         <div class = "header">
             <h1>
@@ -42,11 +17,31 @@
             <h3>H</h3>
             </a>
         </div>
-        <div class="buttons-wrapper">
-            <button id="button-play-v-once" class="button-demo">Vibrate Once</button>
-        </div>
-        <script>
-        document.getElementById('button-play-v-once').addEventListener('click', function() {
-            navigator.vibrate(1000);
-        </script>
+        <div class="play">Play</div>
+
+        <div class="pause">Stop</div>
+        
+    <script>
+        $(document).ready(function() {
+        var audioElement = document.createElement('audio');
+        audioElement.setAttribute('src', 'Baby Crying Sound Effect.mp3');
+        audioElement.setAttribute('autoplay', 'autoplay');
+        //audioElement.load()
+
+        $.get();
+
+        audioElement.addEventListener("load", function() {
+            audioElement.Play();
+        }, true);
+
+        $('.Play').click(function() {
+            audioElement.Play();
+        });
+
+        $('.Stop').click(function() {
+            audioElement.Stop();
+        });
+        });
+    </script>
+       
     </body>
