@@ -44,6 +44,11 @@
     background-size: cover;
 }
 
+.content {
+    background-image: url(content.png);
+    background-size: cover;
+}
+
 body {
     background-color: #FFF685; 
 }
