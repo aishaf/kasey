@@ -148,6 +148,13 @@ a:visited {
     position: relative;
     line-height: 30px;
     margin-left: 20px;
-    margin-top: -56px;
+    margin-top: 0px;
+}
+
+.bottle {
+    width: 100px;
+    height: 100px;
+    margin-top: 400;
+    margin-left: 20px;
 }
     
