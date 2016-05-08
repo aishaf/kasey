@@ -232,6 +232,13 @@ a:visited {
     font-size: 100%;
 }
 
+.homepage {
+    line-height: 30px;
+    left: 50%;
+    top: 90%;
+    font-size: 100%;
+}
+
 .next {
     width: 50px;
     height: 50px;
